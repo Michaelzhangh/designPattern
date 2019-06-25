@@ -1,4 +1,4 @@
-package chainoOfResponsibilityPattern;
+package chainOfResponsibilityPattern;
 
 /**
  * @author zhangh
